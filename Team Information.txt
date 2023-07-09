@@ -1,0 +1,8 @@
+Team Members
+	1)Kora Sree Satya(sreesatya505@gmail.com)
+	2)Akash Kesarwani(akashkesarwani66@gmail.com)
+
+
+Work Distribution
+	1)Kora Sree Satya - Booking Service (Which includes DAO, Service, Service registry, Api gateway and controller Layer)
+	2)Akash Kesarwani - Payment Service (Which includes DAO, Service, Service registry, Api gateway and controller Layer)
